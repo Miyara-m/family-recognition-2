@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient(#CC3399 0%,#FFCCFF 100%);
+    color: #2400f0;
+    text-align: center;
+}
+button
+{
+border-radius: 10%;
+color: #ff0015;
+background-color: aquamarine;
+border-width: 3px;
+border-color: aquamarine;
+margin-top: 5px;
+}
+#camera 
+{ 
+    border: 2px dashed black; 
+    width: 350px; height: 300px;
+align-self: center;
+ } 
